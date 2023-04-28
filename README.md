@@ -5,7 +5,7 @@
 - Clone this repository to your local machine
 ```git clone https://github.com/TheGodSkill/XSS-Checker```
 - Install the required Python packages using pip install -r requirements.txt
-- Run the script using python checker.py
+- Run the script using ```python checker.py```
 
 # Usage
 Enter the URL of the website you want to check in the text field
