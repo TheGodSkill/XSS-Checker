@@ -1,6 +1,8 @@
 # XSS Vulnerability Checker
 ## This is a simple tool that allows you to check if a website is vulnerable to XSS attacks. It works by injecting test payloads into input fields and script tags on the webpage, and checking if these payloads are reflected back in the HTTP response.
 
+### Note that I dont take any responsibility with anything that you do with this script, use at your own risk
+
 # Installation
 - Clone this repository to your local machine
 ```git clone https://github.com/TheGodSkill/XSS-Checker```
